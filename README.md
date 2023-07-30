@@ -39,6 +39,7 @@ Kaam Khoj is a platform designed to connect blue-collar workers in Mumbai with p
 
 
 ## Team
+- **Left to Right:** Meetali Kapse, Mamta Gupta, Ayesha Nagdawala, Shagun Gupta
 ![image](https://github.com/meetalik8/Kaam-Khoj/assets/102135323/918cffe8-50ca-49b2-a53c-011900f0830d)
 
 

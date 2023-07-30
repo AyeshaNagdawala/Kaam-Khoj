@@ -38,7 +38,7 @@ Kaam Khoj is a platform designed to connect blue-collar workers in Mumbai with p
 ![image](https://github.com/AyeshaNagdawala/Kaam-Khoj/assets/111572744/8d72ef6a-ceb6-42b1-a2ad-f6999f82e66c)
 
 
-
-
+## Team
+![image](https://github.com/meetalik8/Kaam-Khoj/assets/102135323/918cffe8-50ca-49b2-a53c-011900f0830d)
 
 
